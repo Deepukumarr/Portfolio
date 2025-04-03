@@ -323,7 +323,7 @@ section{
     font-size: 16px;
 }
 
-/* @media(max-width:1285px){
+@media(max-width:990px){
    #menu-icon{
     display: block;
    }
@@ -377,4 +377,4 @@ section{
    .contact form{
     flex-direction: column;
    }
-} */
+}
